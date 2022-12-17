@@ -2,9 +2,9 @@
 
 A full-stack(ish) web developer with a growing passion for accessibility.
 
-I’m a curious learner and I love to poke around open source.
+I’m a curious learner and I love to poke around open source. Co-maintainer of **[Accessible Web Dev](https://github.com/AccessibleForAll)**.
 
-Nice to meet you!🙌
+Nice to meet you! 🙌
 
 <!--
 **ctoffanin/ctoffanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
