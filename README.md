@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I'm Cristian
+
+A full-stack(ish) web developer with a growing passion for accessibility.
+
+I’m a curious learner and I love to poke around open source.
+
+Nice to meet you!🙌
 
 <!--
 **ctoffanin/ctoffanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
