@@ -1,4 +1,4 @@
-### Hello! I'm Cristian
+### Hello! I'm Cristian 👋
 
 A full-stack(ish) web developer with a growing passion for accessibility.
 
